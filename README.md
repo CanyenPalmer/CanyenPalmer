@@ -182,7 +182,6 @@ Modeling workflow & evaluation notebooks
 </tr>
 </table>
 
-> 💡 *Pin these repos below this README for quick access.*
 
 ---
 
