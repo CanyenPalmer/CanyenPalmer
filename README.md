@@ -21,10 +21,10 @@ data wrangling → modeling → visualization → delivery.
 <td style="border: 2px solid black; padding: 10px; vertical-align: top;">
 
 **CURRENT ARC**  
-Healthcare analytics & patient outcomes  
+Freelance, Open to Full-Time Work  
 
 **SIDE QUEST**  
-Sports analytics  
+Sports analytics & Web Design  
 
 </td>
 </tr>
