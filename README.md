@@ -51,7 +51,7 @@ Sports analytics & Web Design
 
 ---
 
-## 🧪 PAGE 3 — BATTLE RECORDS
+## 🧪 PAGE 3 — PROJECTS
 
 <table>
 <tr>
@@ -81,7 +81,7 @@ Modeling workflow & evaluation notebooks
 
 ---
 
-## 📊 PAGE 4 — FAVORITE TECHNIQUES
+## 📊 PAGE 4 — TECHNIQUES
 
 <table>
 <tr>
@@ -116,7 +116,7 @@ Modeling workflow & evaluation notebooks
 
 ---
 
-## 🤝 FINAL PAGE — CALL TO ACTION
+## 🤝 FINAL PAGE — Connect
 
 <table>
 <tr>
