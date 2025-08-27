@@ -35,7 +35,6 @@
 | **CGM Patient Analytics**  <br>_ETL + feature engineering pipeline for glucose data → risk flags_ | ╔══════════════════════════╗<br>║ **MyCaddy**               ║<br>║ Golf analytics app:       ║<br>║ shot tracking &           ║<br>║ strokes-gained insights   ║<br>╚══════════════════════════╝ |
 | **Logistic Regression & Tree-Based ML** <br>_Modeling workflow & evaluation notebooks_ |  |
 
-> Tip: **Pin** these repos on your profile so they appear right under this page.
 
 ---
 
