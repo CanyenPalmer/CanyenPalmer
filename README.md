@@ -1,5 +1,7 @@
-<h1 align="center">Canyen Palmer</h1>
-<p align="center"><b>Data Scientist & Analyst</b> — Statistics • Machine Learning • Predictive Analysis • Dashboard Creation</p>
+<p align="center">
+  <img src="./Header.png" alt="Canyen Palmer Manga Header" width="100%">
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/canyen-palmer-b0b6762a0">LinkedIn</a> •
