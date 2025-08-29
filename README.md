@@ -5,8 +5,8 @@
 
 <!-- GITHUB STATS SECTION -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=true&bg_color=00000000&text_color=CCCCCC&title_color=FFFFFF&icon_color=FFFFFF&v=2" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&text_color=CCCCCC&title_color=FFFFFF&v=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=true&bg_color=00000000&text_color=CCCCCC&title_color=FFFFFF&icon_color=FFFFFF&v=2" />
 </p>
 
 ---
