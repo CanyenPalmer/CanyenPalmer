@@ -6,7 +6,7 @@
 <!-- GITHUB STATS SECTION -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=true&bg_color=00000000&text_color=CCCCCC&title_color=FFFFFF&icon_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=CCCCCC&title_color=FFFFFF&hide=html,shell" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=CCCCCC&title_color=FFFFFF&hide=jupyter%20notebook,html,shell" />
 </p>
 
 ---
