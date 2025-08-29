@@ -114,7 +114,7 @@ Sports analytics
 
 ---
 
-## 🧪 PAGE 3 — BATTLE RECORDS
+## 📖 PAGE 3 — BATTLE RECORDS
 
 <table>
 <tr>
