@@ -51,13 +51,13 @@ data wrangling → modeling → visualization → delivery.
 </svg>
 
 **CURRENT ARC**  
-Healthcare analytics & patient outcomes
+Master of Data Science Student @ University of Pittsburgh
 
 <!-- Divider -->
 <hr style="border: 0; border-top: 2px solid #000;">
 
 **SIDE QUEST**  
-Sports analytics
+Digital Craftsman: Sports analytics, Design, Development
 
 <!-- Footer screentone -->
 <svg width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
