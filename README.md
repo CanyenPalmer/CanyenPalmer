@@ -250,7 +250,7 @@ Modeling workflow & evaluation notebooks
 
 ---
 
-## 🤝 FINAL PAGE — CALL TO ACTION
+## 🤝 FINAL PAGE — Connect
 
 <table>
 <tr>
@@ -266,7 +266,7 @@ Modeling workflow & evaluation notebooks
   <rect width="100%" height="14" fill="url(#dots8)"/>
 </svg>
 
-**CALL TO ACTION**  
+**Let's Start Building**  
 “Open to collaborations — especially technology & sports analytics.”  
 Let’s talk.
 
