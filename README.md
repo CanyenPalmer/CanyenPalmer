@@ -133,27 +133,25 @@
 ## 🤝 FINAL PAGE — CONNECT
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td>
+  <tr><td align="center">
     <img src="./tones/tone-top_v2.png" width="100%" alt="">
-    <strong>Let's Start Building</strong>  
-    “Open to collaborations — especially technology & sports analytics.”  
+    <strong>Let's Start Building</strong><br/>
+    <em>“Open to collaborations — especially technology & sports analytics.”</em><br/>
     Let’s talk.
     <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
   </td></tr>
 </table>
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td>
+  <tr><td align="center">
     <img src="./tones/speedlines_diag.png" width="100%" alt="">
-    <strong>QUICK LINKS</strong>  
-    - [LinkedIn](https://www.linkedin.com/in/canyen-palmer-b0b6762a0)  
-    - [Email](mailto:canyen2019@gmail.com)  
-    - [Portfolio](https://java-portfolio-silk.vercel.app)
+    <strong>QUICK LINKS</strong><br/><br/>
+
+    🔗 <a href="https://www.linkedin.com/in/canyen-palmer-b0b6762a0">LinkedIn</a> &nbsp; • &nbsp;  
+    📧 <a href="mailto:canyen2019@gmail.com">Email Me</a> &nbsp; • &nbsp;  
+    🖥️ <a href="https://java-portfolio-silk.vercel.app">Portfolio</a>
+
+    <br/><br/>
     <img src="./tones/dots_band.png" width="100%" alt="">
   </td></tr>
 </table>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=End+of+Volume+1;To+Be+Continued..." alt="Typing SVG" />
-</p>
-
