@@ -147,22 +147,16 @@
     <img src="./tones/speedlines_diag.png" width="100%" alt="">
     <strong>QUICK LINKS</strong><br><br>
 
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/canyen-palmer-b0b6762a0">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    &nbsp;
-    <!-- Email -->
-    <a href="mailto:canyen2019@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    &nbsp;
-    <!-- Portfolio -->
-    <a href="https://java-portfolio-silk.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
-    </a>
+    <!-- Markdown badge table -->
+    
+    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canyen-palmer-b0b6762a0) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canyen2019@gmail.com) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://java-portfolio-silk.vercel.app) |
+    |---|---|---|
 
     <br><br>
     <img src="./tones/dots_band.png" width="100%" alt="">
   </td></tr>
 </table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=End+of+Volume+1;To+Be+Continued..." alt="Typing SVG" />
+</p>
