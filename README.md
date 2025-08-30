@@ -3,6 +3,14 @@
   <img src="./Header.png" alt="Canyen Palmer Manga Header" width="100%">
 </p>
 
+<!-- QUICK LINKS (Front and Center) -->
+<p align="center">
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canyen-palmer-b0b6762a0) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canyen2019@gmail.com) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://java-portfolio-silk.vercel.app) |
+|---|---|---|
+
+</p>
+
 <!-- PAGE TABS -->
 <p align="center">
   <a href="#-page-1--origin-story">PAGE 1</a> •
@@ -14,8 +22,8 @@
 
 <!-- STATS – INK FRAMES -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&v=8" alt="Top languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&v=8" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&v=9" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&v=9" alt="GitHub stats" />
 </p>
 
 ---
@@ -135,23 +143,14 @@
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
   <tr><td align="center">
     <img src="./tones/tone-top_v2.png" width="100%" alt="">
-    <strong>Let's Start Building</strong><br/>
-    <em>“Open to collaborations — especially technology & sports analytics.”</em><br/>
-    Let’s talk.
+    <strong>Let’s Start Building</strong><br/><br/>
+    Thank you for reading my story so far.<br/>
+    <em>“To be continued…”</em>
+    <br/><br/>
     <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
   </td></tr>
 </table>
 
-## 🔗 QUICK LINKS
-
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canyen-palmer-b0b6762a0) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canyen2019@gmail.com) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://java-portfolio-silk.vercel.app) |
-|---|---|---|
-
-<p align="center">
-  <img src="./tones/dots_band.png" width="100%" alt="">
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=End+of+Volume+1;To+Be+Continued..." alt="Typing SVG" />
 </p>
-
