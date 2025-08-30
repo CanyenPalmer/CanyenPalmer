@@ -130,7 +130,6 @@
 
 ---
 
-
 ## 🤝 FINAL PAGE — CONNECT
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
@@ -146,13 +145,17 @@
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
   <tr><td align="center">
     <img src="./tones/speedlines_diag.png" width="100%" alt="">
-    <strong>QUICK LINKS</strong><br/><br/>
+    <strong>QUICK LINKS</strong><br><br>
 
-    🔗 <a href="https://www.linkedin.com/in/canyen-palmer-b0b6762a0">LinkedIn</a> &nbsp; • &nbsp;  
-    📧 <a href="mailto:canyen2019@gmail.com">Email Me</a> &nbsp; • &nbsp;  
+    🔗 <a href="https://www.linkedin.com/in/canyen-palmer-b0b6762a0">LinkedIn</a> &nbsp;•&nbsp;
+    📧 <a href="mailto:canyen2019@gmail.com">Email Me</a> &nbsp;•&nbsp;
     🖥️ <a href="https://java-portfolio-silk.vercel.app">Portfolio</a>
 
-    <br/><br/>
+    <br><br>
     <img src="./tones/dots_band.png" width="100%" alt="">
   </td></tr>
 </table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=End+of+Volume+1;To+Be+Continued..." alt="Typing SVG" />
+</p>
