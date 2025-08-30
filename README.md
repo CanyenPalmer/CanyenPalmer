@@ -142,21 +142,16 @@
   </td></tr>
 </table>
 
-<table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="center">
-    <img src="./tones/speedlines_diag.png" width="100%" alt="">
-    <strong>QUICK LINKS</strong><br><br>
+## 🔗 QUICK LINKS
 
-    <!-- Markdown badge table -->
-    
-    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canyen-palmer-b0b6762a0) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canyen2019@gmail.com) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://java-portfolio-silk.vercel.app) |
-    |---|---|---|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canyen-palmer-b0b6762a0) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canyen2019@gmail.com) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://java-portfolio-silk.vercel.app) |
+|---|---|---|
 
-    <br><br>
-    <img src="./tones/dots_band.png" width="100%" alt="">
-  </td></tr>
-</table>
+<p align="center">
+  <img src="./tones/dots_band.png" width="100%" alt="">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=End+of+Volume+1;To+Be+Continued..." alt="Typing SVG" />
 </p>
+
