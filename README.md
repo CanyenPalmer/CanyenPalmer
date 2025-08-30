@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&hide_border=false&border_color=FFFFFF55&bg_color=00000000&title_color=FFFFFF&text_color=DDDDDD&v=3" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=false&border_color=FFFFFF55&bg_color=00000000&title_color=FFFFFF&text_color=DDDDDD&icon_color=FFFFFF&v=3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&v=7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&v=7" />
 </p>
 
 
