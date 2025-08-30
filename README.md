@@ -81,7 +81,7 @@
   <tr><td>
     <img src="./tones/tone-top_v2.png" width="100%" alt="">
     <strong>CGM Patient Analytics</strong>  
-    ETL + feature engineering pipeline → glucose risk flags
+    ETL + feature engineering pipeline → machine learning
     <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
   </td></tr>
 </table>
@@ -90,7 +90,7 @@
   <tr><td>
     <img src="./tones/tone-top_v2.png" width="100%" alt="">
     <strong>MyCaddy (Golf Analytics App)</strong>  
-    Shot tracking with strokes-gained insights
+    Distance Calculations with Advanced Statistics and Physics
     <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
   </td></tr>
 </table>
@@ -99,7 +99,7 @@
   <tr><td>
     <img src="./tones/speedlines_diag.png" width="100%" alt="">
     <strong>Logistic Regression & Tree-Based ML</strong>  
-    Modeling workflow & evaluation notebooks
+    Modeling workflow & employee churn
     <img src="./tones/dots_band.png" width="100%" alt="">
   </td></tr>
 </table>
