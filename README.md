@@ -145,6 +145,7 @@
     <img src="./tones/tone-top_v2.png" width="100%" alt="">
     <strong>Let’s Start Building</strong><br/><br/>
     Thank you for reading my story so far.<br/>
+    Feel free to reach me using my links above.<br/>
     <em>“To be continued…”</em>
     <br/><br/>
     <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
