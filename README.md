@@ -90,7 +90,7 @@
   <tr><td>
     <img src="./tones/tone-top_v2.png" width="100%" alt="">
     <strong>MyCaddy (Golf Analytics App)</strong>  
-    Distance Calculations with Advanced Statistics and Physics
+    Distance Calculations using Advanced Statistics and Physics
     <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
   </td></tr>
 </table>
