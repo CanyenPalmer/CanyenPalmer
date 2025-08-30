@@ -4,6 +4,15 @@
 </p>
 
 <p align="center">
+  <a href="#-page-1--origin-story">PAGE 1</a> •
+  <a href="#%EF%B8%8F-page-2--the-arsenal">PAGE 2</a> •
+  <a href="#-page-3--battle-records">PAGE 3</a> •
+  <a href="#-page-4--favorite-techniques">PAGE 4</a> •
+  <a href="#-final-page--connect">FINAL</a>
+</p>
+
+
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&v=7" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&v=7" />
 </p>
