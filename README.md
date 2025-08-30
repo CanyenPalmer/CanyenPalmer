@@ -14,8 +14,8 @@
 
 <!-- STATS – INK FRAMES -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&v=7" alt="Top languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&v=7" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&v=7" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&hide_border=false&border_color=000000&bg_color=00000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&v=7" />
 </p>
 
 ---
@@ -23,26 +23,26 @@
 ## 📖 PAGE 1 — ORIGIN STORY
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/tone-top.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/tone-top.png" width="100%" alt="">
     <strong>ABOUT ME</strong>  
-    “Open To Work — let’s connect and start building!”  
+    “Open To Work — let’s connect and start building!”
     <br/><br/>
     I craft models & dashboards that drive decisions end-to-end:  
     data wrangling → modeling → visualization → delivery.
-    <img src="./tones/tone-bottom.png" width="100%" alt="tone">
+    <img src="./tones/tone-bottom.png" width="100%" alt="">
   </td></tr>
 </table>
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/dots-12px.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/dots-12px.png" width="100%" alt="">
     <strong>CURRENT ARC</strong>  
     Master of Data Science Student @ University of Pittsburgh
     <hr/>
     <strong>SIDE QUEST</strong>  
     Digital Craftsman: Sports analytics, Design, Development
-    <img src="./tones/scan-10px.png" width="100%" alt="tone">
+    <img src="./tones/scan-10px.png" width="100%" alt="">
   </td></tr>
 </table>
 
@@ -51,8 +51,8 @@
 ## ⚔️ PAGE 2 — THE ARSENAL
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/dots-12px.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/dots-12px.png" width="100%" alt="">
     <strong>THE TOOLS OF WAR</strong>
 
 - **Languages:** Python · R · SQL  
@@ -61,7 +61,7 @@
 - **Other:** Excel/VBA · Google Sheets · GitHub  
 - **Pipeline:** raw data → features → model → dashboard (decisions)
 
-    <img src="./tones/scan-10px.png" width="100%" alt="tone">
+    <img src="./tones/scan-10px.png" width="100%" alt="">
   </td></tr>
 </table>
 
@@ -70,29 +70,29 @@
 ## 📖 PAGE 3 — BATTLE RECORDS
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/tone-top.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/tone-top.png" width="100%" alt="">
     <strong>CGM Patient Analytics</strong>  
     ETL + feature engineering pipeline → glucose risk flags
-    <img src="./tones/tone-bottom.png" width="100%" alt="tone">
+    <img src="./tones/tone-bottom.png" width="100%" alt="">
   </td></tr>
 </table>
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/tone-top.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/tone-top.png" width="100%" alt="">
     <strong>MyCaddy (Golf Analytics App)</strong>  
     Shot tracking with strokes-gained insights
-    <img src="./tones/tone-bottom.png" width="100%" alt="tone">
+    <img src="./tones/tone-bottom.png" width="100%" alt="">
   </td></tr>
 </table>
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/scan-10px.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/scan-10px.png" width="100%" alt="">
     <strong>Logistic Regression & Tree-Based ML</strong>  
     Modeling workflow & evaluation notebooks
-    <img src="./tones/dots-12px.png" width="100%" alt="tone">
+    <img src="./tones/dots-12px.png" width="100%" alt="">
   </td></tr>
 </table>
 
@@ -101,8 +101,8 @@
 ## 📊 PAGE 4 — FAVORITE TECHNIQUES
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/scan-10px.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/scan-10px.png" width="100%" alt="">
     <strong>FORECASTING!  INTERPRETABILITY!  REPRODUCIBILITY!</strong>
 
 - Time-series forecasting  
@@ -110,35 +110,49 @@
 - Model interpretability  
 - Tidy, reproducible analytics
 
-    <img src="./tones/dots-12px.png" width="100%" alt="tone">
+    <img src="./tones/dots-12px.png" width="100%" alt="">
   </td></tr>
 </table>
 
 ---
 
-## 🤝 FINAL PAGE — Connect
+## 🌟 PAGE 5 — HIGHLIGHTS
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/tone-top.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/tone-top.png" width="100%" alt="">
+    ✔ **Productionized** Python data workflows  
+    ✔ **Built** dashboards stakeholders actually use  
+    ✔ **Explained** models clearly to non-technical audiences
+    <img src="./tones/tone-bottom.png" width="100%" alt="">
+  </td></tr>
+</table>
+
+---
+
+## 🤝 FINAL PAGE — CONNECT
+
+<table width="100%" border="2" cellspacing="0" cellpadding="12">
+  <tr><td>
+    <img src="./tones/tone-top.png" width="100%" alt="">
     <strong>Let's Start Building</strong>  
     “Open to collaborations — especially technology & sports analytics.”  
     Let’s talk.
-    <img src="./tones/tone-bottom.png" width="100%" alt="tone">
+    <img src="./tones/tone-bottom.png" width="100%" alt="">
   </td></tr>
 </table>
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td align="left">
-    <img src="./tones/scan-10px.png" width="100%" alt="tone">
+  <tr><td>
+    <img src="./tones/scan-10px.png" width="100%" alt="">
     <strong>QUICK LINKS</strong>  
-    - <a href="https://www.linkedin.com/in/canyen-palmer-b0b6762a0">LinkedIn</a>  
-    - <a href="mailto:canyen2019@gmail.com">Email</a>  
-    - <a href="https://java-portfolio-silk.vercel.app">Portfolio</a>
-    <img src="./tones/dots-12px.png" width="100%" alt="tone">
+    - [LinkedIn](https://www.linkedin.com/in/canyen-palmer-b0b6762a0)  
+    - [Email](mailto:canyen2019@gmail.com)  
+    - [Portfolio](https://java-portfolio-silk.vercel.app)
+    <img src="./tones/dots-12px.png" width="100%" alt="">
   </td></tr>
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=End+of+Volume+1;To+Be+Continued..." alt="Typing SVG: To Be Continued" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=000000&center=true&vCenter=true&width=700&lines=End+of+Volume+1;To+Be+Continued..." alt="Typing SVG" />
 </p>
