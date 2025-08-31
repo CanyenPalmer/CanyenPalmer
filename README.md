@@ -63,15 +63,43 @@
     <img src="./tones/dots_band.png" width="100%" alt="">
     <strong>THE TOOLS OF WAR</strong>
 
-- **Languages:** Python · R · SQL · TypeScript · JavaScript   
-- **Libraries:** pandas · numpy · scikit-learn · Matplotlib · seaborn 
-- **Visuals:** Tableau · Learning Others in MDS  
-- **Tools:** Excel/VBA · Google Sheets · GitHub · VS Code · 
-- **Frameworks:** (Still Learning) Flask · Tilwind CSS · React
+<p align="center">
 
-    <img src="./tones/speedlines_diag.png" width="100%" alt="">
+<!-- Languages -->
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) 
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#) 
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)  
+
+<!-- Libraries -->
+[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#) 
+[![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#) 
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](#) 
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](#) 
+[![seaborn](https://img.shields.io/badge/seaborn-1D3557?style=for-the-badge&logo=python&logoColor=white)](#)  
+
+<!-- Visuals -->
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)  
+[![MDS](https://img.shields.io/badge/MDS-Learning-blueviolet?style=for-the-badge&logo=gradle&logoColor=white)](#)  
+
+<!-- Tools -->
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) 
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](#) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#) 
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)  
+
+<!-- Frameworks -->
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#) 
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#) 
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)  
+
+</p>
+
+<img src="./tones/speedlines_diag.png" width="100%" alt="">
   </td></tr>
 </table>
+
 
 ---
 
