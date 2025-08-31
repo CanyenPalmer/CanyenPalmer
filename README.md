@@ -63,11 +63,11 @@
     <img src="./tones/dots_band.png" width="100%" alt="">
     <strong>THE TOOLS OF WAR</strong>
 
-- **Languages:** Python · R · SQL  
-- **Libraries:** pandas · numpy · scikit-learn  
-- **Visuals:** Tableau · Power BI · Matplotlib  
-- **Other:** Excel/VBA · Google Sheets · GitHub  
-- **Pipeline:** raw data → features → model → dashboard (decisions)
+- **Languages:** Python · R · SQL · JavaScript   
+- **Libraries:** pandas · numpy · scikit-learn · Matplotlib · seaborn 
+- **Visuals:** Tableau · Learning Others in MDS  
+- **Tools:** Excel/VBA · Google Sheets · GitHub · VS Code · 
+- **Frameworks:** (Still Learning) Flask · Tilwind CSS · React
 
     <img src="./tones/speedlines_diag.png" width="100%" alt="">
   </td></tr>
@@ -115,7 +115,9 @@
 
 - Time-series forecasting  
 - Risk & churn classification  
-- Model interpretability  
+- Model interpretability
+- Trend Analysis
+- Data Visualization  
 - Tidy, reproducible analytics
 
     <img src="./tones/dots_band.png" width="100%" alt="">
@@ -145,7 +147,7 @@
     <img src="./tones/tone-top_v2.png" width="100%" alt="">
     <strong>Let’s Start Building</strong><br/><br/>
     Thank you for reading my story so far.<br/>
-    Feel free to reach me using my links above.<br/>
+    Feel free to reach me using my links above!<br/>
     <em>“To be continued…”</em>
     <br/><br/>
     <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
