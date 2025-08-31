@@ -157,7 +157,9 @@
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
   <tr><td>
-    <img src="./tones/tone-top_v2.png" width="100%" alt="">
+    <p align="center">
+      <img src="./tones/tone-top_v2.png" width="100%" alt="" />
+    </p>
 
 <ul>
   <li>✔ <strong>Productionized</strong> Python data workflows</li>
@@ -165,7 +167,9 @@
   <li>✔ <strong>Explained</strong> models clearly to non-technical audiences</li>
 </ul>
 
-    <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
+    <p align="center">
+      <img src="./tones/tone-bottom_v2.png" width="100%" alt="" />
+    </p>
   </td></tr>
 </table>
 
