@@ -80,8 +80,7 @@
 [![seaborn](https://img.shields.io/badge/seaborn-1D3557?style=for-the-badge&logo=python&logoColor=white)](#)  
 
 <!-- Visuals -->
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)  
-[![MDS](https://img.shields.io/badge/MDS-Learning-blueviolet?style=for-the-badge&logo=gradle&logoColor=white)](#)  
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)    
 
 <!-- Tools -->
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) 
