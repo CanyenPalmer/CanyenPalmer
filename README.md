@@ -63,7 +63,7 @@
     <img src="./tones/dots_band.png" width="100%" alt="">
     <strong>THE TOOLS OF WAR</strong>
 
-- **Languages:** Python · R · SQL · JavaScript   
+- **Languages:** Python · R · SQL · TypeScript · JavaScript   
 - **Libraries:** pandas · numpy · scikit-learn · Matplotlib · seaborn 
 - **Visuals:** Tableau · Learning Others in MDS  
 - **Tools:** Excel/VBA · Google Sheets · GitHub · VS Code · 
