@@ -28,31 +28,22 @@
 
 ---
 
-## 📖 PAGE 1 — ORIGIN STORY
-
-<table width="100%" border="2" cellspacing="0" cellpadding="12">
-  <tr><td>
-    <img src="./tones/tone-top_v2.png" width="100%" alt="">
-    <strong>ABOUT ME</strong>  
-    “Open To Work — let’s connect and start building!”
-    <br/><br/>
-    I craft models & dashboards that drive decisions end-to-end:  
-    data wrangling → modeling → visualization → delivery.
-    <img src="./tones/tone-bottom_v2.png" width="100%" alt="">
-  </td></tr>
-</table>
-
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
   <tr><td>
     <img src="./tones/dots_band.png" width="100%" alt="">
     <strong>CURRENT ARC</strong>  
-    Master of Data Science Student @ University of Pittsburgh
+    Data Scientist & Analyst | M.S. Data Science @ University of Pittsburgh  
+    <br/><br/>
+    I specialize in <b>forecasting, classification, interpretability, and reproducible analytics</b>.  
+    My projects span healthcare, HR, real estate, and sports — always focused on  
+    turning data into <b>decisions stakeholders can trust</b>.
     <hr/>
     <strong>SIDE QUEST</strong>  
     Digital Craftsman: Sports analytics, Design, Development
     <img src="./tones/speedlines_diag.png" width="100%" alt="">
   </td></tr>
 </table>
+
 
 ---
 
