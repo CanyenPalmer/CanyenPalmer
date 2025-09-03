@@ -137,19 +137,20 @@
 
 <table width="100%" border="2" cellspacing="0" cellpadding="12">
   <tr><td>
-    <img src="./tones/speedlines_diag.png" width="100%" alt="">
-    <strong>FORECASTING!  INTERPRETABILITY!  REPRODUCIBILITY!</strong>
+    <img src="./tones/speedlines_diag.png" width="100%" alt="speedlines divider">
+    <strong>FORECASTING!&nbsp;&nbsp;INTERPRETABILITY!&nbsp;&nbsp;REPRODUCIBILITY!</strong>
 
-- Time-series forecasting  
-- Risk & churn classification  
-- Model interpretability
-- Trend Analysis
-- Data Visualization  
-- Tidy, reproducible analytics
+- <b>Time-series & operations forecasting</b> — carry/flight adjustments under new conditions <i>(MyCaddy)</i>; revenue / aging exposure surfacing <i>(CGM Patient Analytics)</i>
+- <b>Risk & churn classification</b> — employee attrition models (LR vs. trees) with threshold tuning <i>(Salifort Motors)</i>; late-payment risk flags <i>(CGM)</i>
+- <b>Model interpretability</b> — GLM coefficient reading for pricing <i>(Real Estate, R)</i>; tree feature importance & business levers <i>(HR churn)</i>
+- <b>Trend & market analysis</b> — condition/location effects on sale price with log transforms & diagnostics <i>(Real Estate, R)</i>
+- <b>Data visualization & communication</b> — Quarto/PDF reporting <i>(Real Estate)</i>; interactive UI for applied analytics <i>(MyCaddy, PortfolioBasics)</i>
+- <b>Tidy, reproducible analytics</b> — pinned deps & synthetic samples; runnable notebooks/CLIs; clean READMEs & deploys <i>(Python-101, HR churn, CGM, PortfolioBasics)</i>
 
-    <img src="./tones/dots_band.png" width="100%" alt="">
+    <img src="./tones/dots_band.png" width="100%" alt="halftone dots divider">
   </td></tr>
 </table>
+
 
 ---
 
