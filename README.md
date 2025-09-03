@@ -35,7 +35,7 @@
     Data Scientist & Analyst | M.S. Data Science @ University of Pittsburgh  
     <br/><br/>
     I specialize in <b>forecasting, classification, interpretability, and reproducible analytics</b>.  
-    My projects span a wide range of Data topics from a multitude of sources — always focused on  
+    My projects span a wide range of data topics from a multitude of sources — always focused on  
     turning data into <b>decisions stakeholders can trust</b>.
     <hr/>
     <strong>SIDE QUEST</strong>  
