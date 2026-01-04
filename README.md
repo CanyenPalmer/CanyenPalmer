@@ -23,7 +23,12 @@
 <!-- STATS – INK FRAMES -->
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanyenPalmer&theme=transparent"
+       alt="Repos per language" />
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanyenPalmer&theme=transparent"
+       alt="GitHub stats" />
 </p>
 
 ---
