@@ -22,12 +22,13 @@
 
 <!-- STATS – INK FRAMES -->
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CanyenPalmer&theme=transparent"
-    alt="GitHub Profile Summary"
-  />
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanyenPalmer&theme=transparent"
+       alt="Repos per language" />
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanyenPalmer&theme=transparent"
+       alt="GitHub stats" />
 </p>
-
 
 ---
 
