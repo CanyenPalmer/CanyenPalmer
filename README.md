@@ -21,13 +21,20 @@
 </p>
 
 <!-- STATS – INK FRAMES -->
+<!-- Existing banner / text above -->
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CanyenPalmer&theme=transparent"
+    alt="Profile Summary"
+  />
+</p>
+
 <p align="center">
   <img width="49%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanyenPalmer&theme=transparent"
-       alt="Repos per language" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CanyenPalmer&theme=transparent" />
   <img width="49%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CanyenPalmer&theme=transparent"
-       alt="GitHub stats" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CanyenPalmer&theme=transparent&utcOffset=-5" />
 </p>
 
 ---
