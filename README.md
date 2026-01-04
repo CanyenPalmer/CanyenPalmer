@@ -22,16 +22,11 @@
 
 <!-- STATS – INK FRAMES -->
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&theme=transparent&border_color=000000&title_color=FFFFFF&text_color=E6E6E6&cache_seconds=1800"
-    alt="Top languages"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&theme=transparent&border_color=000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&cache_seconds=1800"
-    alt="GitHub stats"
-  />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CanyenPalmer&layout=compact&langs_count=8&theme=transparent&border_color=000000&title_color=FFFFFF&text_color=E6E6E6&cache_seconds=1800)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanyenPalmer&show_icons=true&theme=transparent&border_color=000000&title_color=FFFFFF&text_color=E6E6E6&icon_color=FFFFFF&cache_seconds=1800)
+
 </p>
 
 ---
